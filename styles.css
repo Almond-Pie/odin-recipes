@@ -1,3 +1,35 @@
-body{
-    background-color: #f5b041;
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #f5b041
 }
+
+header{ 
+
+    font-size: 30px;
+    background-color: #DAF7A6 
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    max-width: 300px;
+    text-align: center;
+}
+ 
+div{font-size: 22px;
+    color: #DAF7A6 ;
+    background-color: #900C3F 
+}
+
+
+ul{  font-size: 30px;
+    background-color: #DAF7A6 
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    max-width: 300px;
+    text-align: center;
+    font-size: 22px;
+}
+    
+
